@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "249135078070",
+    "project_id": "livmeetup-1a3ee",
+    "storage_bucket": "livmeetup-1a3ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249135078070:android:a568893cada4900ee16417",
+        "android_client_info": {
+          "package_name": "com.livmeetupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249135078070-stilgsnvl8hdmuj91aqaaolo72qls43k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.livmeetupapp",
+            "certificate_hash": "1bedc9f0c5482bd12243540bd26b869577d91289"
+          }
+        },
+        {
+          "client_id": "249135078070-v1i3b6m8aqhij45gfjt3qakn5ig1q34h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_xu346LCvWAuLQobNuBd9Csinc8S0cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249135078070-v1i3b6m8aqhij45gfjt3qakn5ig1q34h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

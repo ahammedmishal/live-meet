@@ -1,0 +1,27 @@
+const GreetingMessages = [
+    "Hello baby",
+    "Hello sweetheart",
+    "Hi jaan",
+    "Hey darling",
+    "Hi meri jaan",
+    "Hello meri pyaari",
+    "Hey cutie",
+    "Hi shona",
+    "Hey jaaneman",
+    "Hello love",
+    "Hi jaanu",
+    "Hey beautiful",
+    "Hello my love",
+    "Hi meri zindagi",
+    "Hey gorgeous",
+    "Hello meri rani",
+    "Hi baby doll",
+    "Hey angel",
+    "Hi dear",
+    "Hello sweetheart",
+    "Hi honey",
+    "Hello jaaneman",
+    "Hey pyaari",
+    "Hi my queen"
+];
+export default GreetingMessages;
